@@ -1,2 +1,2 @@
-# dmit2504-assignment-01-jasontat
+# Jason Tat
 DMIT2504 Assignment 1
